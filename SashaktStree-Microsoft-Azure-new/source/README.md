@@ -1,4 +1,6 @@
-Add your idea files to this directory. Please don't rename this directory.
+Add your source code files to this directory. Please don't rename this directory.
+# hackathon-submission-template
+Please use this template for submitting solutions for the Microsoft Azure Women's Hackathon 2022
 
 # WebSite
 
